@@ -108,3 +108,6 @@ form.addEventListener('submit', (e) => {
 window.addEventListener('DOMContentLoaded', () => {
     acabamentoContainer.classList.toggle('hidden', materialInput.value !== 'lona');
 });
+
+
+
